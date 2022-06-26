@@ -1,0 +1,10 @@
+to run, use the following command:
+python3 merge.py -c <input1.mp4> <input2.mp4> -o <output.mp4>
+
+Note - 
+1. can give as many input video files to merge
+2. -c is for concatenation operation
+3. -o is for output file
+
+reference - 
+https://www.thepythoncode.com/article/concatenate-video-files-in-python
